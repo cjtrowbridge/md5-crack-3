@@ -1,4 +1,4 @@
-# Sierra College: CSCI-46
+# Sierra College: CSCI-0046
 This is a C program which cracks md5 passwords from a dictionary.
 
 ## Lab 10: Faster cracking
